@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-transaction
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gopal
+Implementation-Vendor-Id: spring-transaction
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-transaction
+Created-By: Maven Integration for Eclipse
+
